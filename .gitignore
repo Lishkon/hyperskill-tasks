@@ -11,6 +11,9 @@
 # BlueJ files
 *.ctxt
 
+# Intellij Idea files
+.idea
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
@@ -28,6 +31,10 @@ hs_err_pid*
 
 ### Gradle ###
 .gradle
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
 build/
 
 # Ignore Gradle GUI config
