@@ -7,4 +7,5 @@ class ArraySorting {
         java.util.Arrays.sort(array);
         return array;
     }
+
 }
