@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/java,gradle
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,gradle
 
+# Ignore this file as well #
+.gitignore
+
 ### Java ###
 # Compiled class file
 *.class
@@ -12,7 +15,7 @@
 *.ctxt
 
 # Intellij Idea files
-.idea
+.idea/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
