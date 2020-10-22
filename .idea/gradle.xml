@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Coffee Machine/task" />
             <option value="$PROJECT_DIR$/Problems/A simple calculator" />
             <option value="$PROJECT_DIR$/Problems/Accounts" />
             <option value="$PROJECT_DIR$/Problems/Area of a circle" />
@@ -22,6 +23,7 @@
             <option value="$PROJECT_DIR$/Problems/Direction" />
             <option value="$PROJECT_DIR$/Problems/Distance" />
             <option value="$PROJECT_DIR$/Problems/Even or odd" />
+            <option value="$PROJECT_DIR$/Problems/Find the max of three numbers" />
             <option value="$PROJECT_DIR$/Problems/Fizz Buzz" />
             <option value="$PROJECT_DIR$/Problems/Getting input" />
             <option value="$PROJECT_DIR$/Problems/Initializing an array of characters" />
