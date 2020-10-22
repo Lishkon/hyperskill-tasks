@@ -45,7 +45,7 @@ gradle/wrapper
 gradle-app.setting
 
 # Ignore the rebundant out/ directory
-**out/
+Problems/**/out
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
