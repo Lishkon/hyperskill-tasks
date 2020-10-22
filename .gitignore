@@ -39,9 +39,13 @@ gradlew
 gradlew.bat
 settings.gradle
 build/
+gradle/wrapper
 
 # Ignore Gradle GUI config
 gradle-app.setting
+
+# Ignore the rebundant out/ directory
+**out/
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
