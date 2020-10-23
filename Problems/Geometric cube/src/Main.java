@@ -11,7 +11,7 @@ public class Main {
         int length = scanner.nextInt(); 
 
         // creating an instance
-        GeometricCuboid cuboid = new GeometricCuboid( width, height, length);
+        GeometricCuboid cuboid = new GeometricCuboid(width, height, length);
 
         System.out.println(cuboid.toString());
     }
