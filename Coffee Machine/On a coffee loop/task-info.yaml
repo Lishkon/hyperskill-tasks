@@ -384,6 +384,13 @@ files:
         }
     }
   learner_created: false
+- name: src/machine/debugging/Main.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/33/stages/179/implement
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/33/stages/179/implement">JetBrains
+    Academy</a>
+  time: Fri, 23 Oct 2020 14:21:50 UTC
 record: -1
