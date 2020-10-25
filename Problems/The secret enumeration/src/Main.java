@@ -12,8 +12,8 @@ public class Main {
     }
 }
 
-/* At least two constants start with STAR
+/* At least two constants start with STAR*/
 enum Secret {
     STAR, CRASH, START, TEST, STARRIOR
-}*/
+}
 
